@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vanya-ch.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/vanya-ch.github.io/static/js/main.6699d583.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/vanya-ch.github.io/static/js/787.9cb3e5b4.chunk.js",
+    "static/media/logo.svg": "/vanya-ch.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vanya-ch.github.io/index.html",
+    "main.073c9b0a.css.map": "/vanya-ch.github.io/static/css/main.073c9b0a.css.map",
+    "main.6699d583.js.map": "/vanya-ch.github.io/static/js/main.6699d583.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/vanya-ch.github.io/static/js/787.9cb3e5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6699d583.js"
+  ]
+}
